@@ -1,5 +1,8 @@
 # Kernel-Density-Estimation
-A comprehensive exploration of Kernel Density Estimation (KDE), covering kernel functions, bandwidth selection, boundary effects, probability leakage, and visualization. Includes code, mathematical insights, and presentation material.<br>
+A comprehensive exploration of Kernel Density Estimation (KDE), covering kernel functions, bandwidth selection, boundary effects, probability leakage, and visualization. Includes code, mathematical insights, and presentation material.
+
+# Authors 
+Sayan Dewanjee and Jit Mondal,Indian Statistical Institute,Delhi Centre, April,2025
 
 ##  Overview
 
